@@ -1,0 +1,459 @@
+{"tm":"2026-10-03 20:42:54.486","lvl":"info","mod":"vpn","msg":"[DeviceInfo]
+-------------
+[API]: 36
+[Brand]: Redmi
+[Device]: emerald
+[Model]: 23117RA68G
+[Manufacturer]: Xiaomi
+[Release]: 16
+[App Release Version]: 2360
+[Start of log]:
+------------------------------------------------------
+"}
+{"tm":"2026-10-03 20:42:54.487","lvl":"info","mod":"vpn","msg":"VPN state initialized with Disconnected"}
+{"tm":"2026-10-03 20:42:54.490","lvl":"info","mod":"vpn","msg":"Preferred:  Manual: "}
+{"tm":"2026-10-03 20:42:54.491","lvl":"info","mod":"vpn","msg":"[wg:443:NextUp, ikev2:500:Disconnected, udp:443:Disconnected, tcp:443:Disconnected, stunnel:443:Disconnected, wstunnel:443:Disconnected]"}
+{"tm":"2026-10-03 20:42:54.521","lvl":"debug","mod":"windscribe-main","msg":"Creating DataStore directory: /data/user/0/com.windscribe.vpn/files/datastore"}
+{"tm":"2026-10-03 20:42:54.529","lvl":"info","mod":"migration","msg":"Starting Tray to DataStore migration..."}
+{"tm":"2026-10-03 20:42:54.529","lvl":"info","mod":"migration","msg":"Looking for Tray database at: /data/user/0/com.windscribe.vpn/databases/tray.db"}
+{"tm":"2026-10-03 20:42:54.529","lvl":"info","mod":"migration","msg":"No Tray database found (fresh install)"}
+{"tm":"2026-10-03 20:42:54.555","lvl":"info","mod":"windscribe-main","msg":"No Tray data to migrate (fresh install or already migrated)"}
+{"tm":"2026-10-03 20:42:54.556","lvl":"info","mod":"data","msg":"No user is logged in."}
+{"tm":"2026-10-03 20:42:54.693","lvl":"info","mod":"secure_prefs","msg":"Encrypted storage initialized successfully"}
+{"tm":"2026-10-03 20:42:54.707","lvl":"debug","mod":"windscribe-main","msg":"Fresh app launch - setting migration flag for full server list update"}
+{"tm":"2026-10-03 20:42:54.718","lvl":"info","mod":"device-state-manager","msg":"Network callback registered using registerDefaultNetworkCallback()"}
+{"tm":"2026-10-03 20:42:54.722","lvl":"info","mod":"windscribe-main","msg":"Application startup finished."}
+{"tm":"2026-10-03 20:42:54.754","lvl":"debug","mod":"wsnet-wrapper","msg":"Initializing WSNet..."}
+{"tm":"2026-10-03 20:42:54.762","lvl":"info","mod":"network-info-manager","msg":"Network detail unavailable"}
+{"tm":"2026-10-03 20:42:54.764","lvl":"info","mod":"device-state-manager","msg":"Network: online=true, NetworkDetail(name=MTN NIGERIA, type=CELLULAR)"}
+{"tm":"2026-10-03 20:42:54.881","lvl":"debug","mod":"wsnet-wrapper","msg":"wsnet version: 1.5.26-2-g5ed361a"}
+{"tm":"2026-10-03 20:42:54.893","lvl":"debug","mod":"wsnet-wrapper","msg":"c-ares version: 1.34.7"}
+{"tm":"2026-10-03 20:42:54.974","lvl":"info","mod":"network-info-manager","msg":"Network changed: MTN NIGERIA (CELLULAR)"}
+{"tm":"2026-10-03 20:42:55.013","lvl":"debug","mod":"wsnet-wrapper","msg":"DNS servers in channel: 10.225.136.54:53,10.226.130.17:53"}
+{"tm":"2026-10-03 20:42:55.028","lvl":"debug","mod":"wsnet-wrapper","msg":"CertManager number of certificates : 131"}
+{"tm":"2026-10-03 20:42:55.029","lvl":"debug","mod":"wsnet-wrapper","msg":"openssl version: 4.0.1"}
+{"tm":"2026-10-03 20:42:55.029","lvl":"debug","mod":"wsnet-wrapper","msg":"curl version: 8.21.0"}
+{"tm":"2026-10-03 20:42:55.030","lvl":"debug","mod":"wsnet-wrapper","msg":"Base platform: android"}
+{"tm":"2026-10-03 20:42:55.031","lvl":"debug","mod":"wsnet-wrapper","msg":"Platform name: android"}
+{"tm":"2026-10-03 20:42:55.033","lvl":"debug","mod":"wsnet-wrapper","msg":"Use staging domains: false"}
+{"tm":"2026-10-03 20:42:55.034","lvl":"debug","mod":"wsnet-wrapper","msg":"App version: 4.3.2360"}
+{"tm":"2026-10-03 20:42:55.034","lvl":"debug","mod":"wsnet-wrapper","msg":"OpenVpn version: 2.6.0"}
+{"tm":"2026-10-03 20:42:55.034","lvl":"debug","mod":"wsnet-wrapper","msg":"Language: en"}
+{"tm":"2026-10-03 20:42:55.034","lvl":"debug","mod":"wsnet-wrapper","msg":"Use default ServerAPI settings"}
+{"tm":"2026-10-03 20:42:55.034","lvl":"debug","mod":"wsnet-wrapper","msg":"ServerAPI_impl::ServerAPI_impl, no persisted failover, primary failover will be tried first uid=300fa426-4640-4a3f-b95c-1f0277462358"}
+{"tm":"2026-10-03 20:42:55.035","lvl":"debug","mod":"wsnet-wrapper","msg":"WSNet is ready"}
+{"tm":"2026-10-03 20:42:55.035","lvl":"debug","mod":"wsnet-wrapper","msg":"WSNet initialized successfully"}
+{"tm":"2026-10-03 20:42:55.098","lvl":"info","mod":"app_icon_cache","msg":"Preloading 697 app icons..."}
+{"tm":"2026-10-03 20:42:55.352","lvl":"info","mod":"device-state-manager","msg":"Updated wsnet network status to true"}
+{"tm":"2026-10-03 20:42:55.401","lvl":"info","mod":"vpn","msg":"Preferred: (MTN NIGERIA, null) Manual: "}
+{"tm":"2026-10-03 20:42:55.407","lvl":"info","mod":"vpn","msg":"[wg:443:NextUp, ikev2:500:Disconnected, udp:443:Disconnected, tcp:443:Disconnected, stunnel:443:Disconnected, wstunnel:443:Disconnected]"}
+{"tm":"2026-10-03 20:42:55.442","lvl":"info","mod":"vpn","msg":"[wg:443:NextUp, ikev2:500:Disconnected, udp:443:Disconnected, tcp:443:Disconnected, stunnel:443:Disconnected, wstunnel:443:Disconnected]"}
+{"tm":"2026-10-03 20:42:55.516","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=fastpath_start uid=300fa426-4640-4a3f-b95c-1f0277462358 name=hrd: win"}
+{"tm":"2026-10-03 20:42:55.517","lvl":"debug","mod":"wsnet-wrapper","msg":"Fast path selected persisted failover: hrd: win"}
+{"tm":"2026-10-03 20:42:55.517","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=fastpath_end uid=300fa426-4640-4a3f-b95c-1f0277462358 result=ok domain=windscribe.com"}
+{"tm":"2026-10-03 20:42:55.584","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://api.windscribe.com/RecordInstall/mobile/android"}
+{"tm":"2026-10-03 20:42:58.098","lvl":"info","mod":"device-state-manager","msg":"Whitelisted network set to: null"}
+{"tm":"2026-10-03 20:42:58.098","lvl":"info","mod":"app","msg":"----------App going to background.--------
+"}
+{"tm":"2026-10-03 20:43:05.555","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:05.557","lvl":"debug","mod":"wsnet-wrapper","msg":"Added api.65a4eab3f82f722bf65dcd823e379716:443:197e793909b74aab8c5988e0cebf912d,193b2cdee5eeb3e29352c4d568be3ace to DNS cache\n"}
+{"tm":"2026-10-03 20:43:05.559","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname api.65a4eab3f82f722bf65dcd823e379716 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:05.560","lvl":"debug","mod":"wsnet-wrapper","msg":"Host api.65a4eab3f82f722bf65dcd823e379716:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:05.561","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:05.563","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: 197e793909b74aab8c5988e0cebf912d, 193b2cdee5eeb3e29352c4d568be3ace\n"}
+{"tm":"2026-10-03 20:43:05.563","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:05.564","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 197e793909b74aab8c5988e0cebf912d:443...\n"}
+{"tm":"2026-10-03 20:43:05.565","lvl":"debug","mod":"wsnet-wrapper","msg":"SSL Trust Anchors:\n"}
+{"tm":"2026-10-03 20:43:05.565","lvl":"debug","mod":"wsnet-wrapper","msg":"  OpenSSL default paths (fallback)\n"}
+{"tm":"2026-10-03 20:43:05.566","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:05.566","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:05.567","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 9967 milliseconds\n"}
+{"tm":"2026-10-03 20:43:05.569","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #0\n"}
+{"tm":"2026-10-03 20:43:05.574","lvl":"debug","mod":"wsnet-wrapper","msg":"API request RecordInstall/mobile/android failed with error = curl: Timeout was reached; os_errno = 0"}
+{"tm":"2026-10-03 20:43:05.575","lvl":"debug","mod":"wsnet-wrapper","msg":"ServerAPI_impl::onHttpNetworkRequestFinished, reset failover"}
+{"tm":"2026-10-03 20:43:05.584","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_executor_start failovers=20"}
+{"tm":"2026-10-03 20:43:05.585","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_search_start failovers=20"}
+{"tm":"2026-10-03 20:43:05.586","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=300fa426-4640-4a3f-b95c-1f0277462358 name=hrd: win"}
+{"tm":"2026-10-03 20:43:05.587","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=300fa426-4640-4a3f-b95c-1f0277462358 result=ok domains=1"}
+{"tm":"2026-10-03 20:43:05.589","lvl":"debug","mod":"wsnet-wrapper","msg":"Probe: skipping already-failed candidate domain=windscribe.com uid=300fa426-4640-4a3f-b95c-1f0277462358"}
+{"tm":"2026-10-03 20:43:05.592","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=83e64a18-31bb-4d26-956a-ade58a5df0b9 name=hrd: tot"}
+{"tm":"2026-10-03 20:43:05.594","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=83e64a18-31bb-4d26-956a-ade58a5df0b9 result=ok domains=1"}
+{"tm":"2026-10-03 20:43:05.594","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_start uid=83e64a18-31bb-4d26-956a-ade58a5df0b9 name=hrd: tot domain=totallyacdn.com sni= ech=0"}
+{"tm":"2026-10-03 20:43:05.594","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=20846580-b8fc-418b-9202-0af1fdbd90b9 name=dyn: 1.1"}
+{"tm":"2026-10-03 20:43:05.594","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=d1f8d432-3ef3-4b26-864e-f3bd44fede77 name=dyn: 1.0"}
+{"tm":"2026-10-03 20:43:05.595","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=bd35e5d2-fbe2-4e1a-9ae6-2d641c3cf26e name=dyn: clo"}
+{"tm":"2026-10-03 20:43:05.595","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=0555eaa2-265c-475a-bebb-fb6e65efd4af name=dyn: 8.8"}
+{"tm":"2026-10-03 20:43:05.595","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=a84a8883-1d82-409b-8521-10d8040e9557 name=dyn: 8.8"}
+{"tm":"2026-10-03 20:43:05.595","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=b08c7b45-f65b-4d7f-a424-9fb71f296957 name=dyn: dns"}
+{"tm":"2026-10-03 20:43:05.595","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=7edd0a41-1ffd-4224-a2b1-809c646a918b name=rnd: bff"}
+{"tm":"2026-10-03 20:43:05.596","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=7edd0a41-1ffd-4224-a2b1-809c646a918b result=ok domains=1"}
+{"tm":"2026-10-03 20:43:05.596","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_start uid=7edd0a41-1ffd-4224-a2b1-809c646a918b name=rnd: bff domain=bff0cfdfc3d893fc4c14affb538d23544b90541d.com sni= ech=0"}
+{"tm":"2026-10-03 20:43:05.596","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=3e60e3d5-d379-46cc-a9a0-d9f04f47999a name=ech: 1.1"}
+{"tm":"2026-10-03 20:43:05.596","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=ee195090-f5e8-4ae0-9142-ca0961a43173 name=ech: 1.0"}
+{"tm":"2026-10-03 20:43:05.596","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=ad532351-5999-4a64-859f-32a021511876 name=ech: clo"}
+{"tm":"2026-10-03 20:43:05.597","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=7f01c68b-d06f-4522-99f3-9c31762f24a4  name=ech_f: 1.1"}
+{"tm":"2026-10-03 20:43:05.597","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=3ddc4f4c-37d3-44e7-bdba-877a5666d2ac name=ech_f: 1.0"}
+{"tm":"2026-10-03 20:43:05.597","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=da3f5ac6-897b-44be-b401-bfbceaca4ce8 name=ech_f: clo"}
+{"tm":"2026-10-03 20:43:05.597","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=c80e1193-27ea-405a-9502-00c31a51c911 name=acc: 139"}
+{"tm":"2026-10-03 20:43:05.598","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=5efc039e-0937-4ad7-a82e-f4097987027e name=acc: 138"}
+{"tm":"2026-10-03 20:43:05.598","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=64e5c2e1-829b-4f6a-a3a3-a37c762778c6 name=cdn: piz"}
+{"tm":"2026-10-03 20:43:05.598","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=64e5c2e1-829b-4f6a-a3a3-a37c762778c6 result=ok domains=1"}
+{"tm":"2026-10-03 20:43:05.598","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_start uid=64e5c2e1-829b-4f6a-a3a3-a37c762778c6 name=cdn: piz domain=pizdets.ca sni=www.esquire.com ech=0"}
+{"tm":"2026-10-03 20:43:05.598","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=2bedd295-2a5e-478c-b294-0ec5ffbb3813 name=cdn: piz"}
+{"tm":"2026-10-03 20:43:05.598","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=2bedd295-2a5e-478c-b294-0ec5ffbb3813 result=ok domains=1"}
+{"tm":"2026-10-03 20:43:05.598","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_start uid=2bedd295-2a5e-478c-b294-0ec5ffbb3813 name=cdn: piz domain=pizdets.ca sni=cdn.yelp.com ech=0"}
+{"tm":"2026-10-03 20:43:05.599","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_start uid=d9f14789-a32b-414e-a3b4-8bcd88e8a609 name=cdn: piz"}
+{"tm":"2026-10-03 20:43:05.599","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=d9f14789-a32b-414e-a3b4-8bcd88e8a609 result=ok domains=1"}
+{"tm":"2026-10-03 20:43:05.607","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://1.1.1.1/dns-query?name=dynamic-api-host3.windscribe.com&type=TXT"}
+{"tm":"2026-10-03 20:43:05.608","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://1.0.0.1/dns-query?name=dynamic-api-host3.windscribe.com&type=TXT"}
+{"tm":"2026-10-03 20:43:05.609","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://8.8.8.8/resolve?name=dynamic-api-host3.windscribe.com&type=TXT"}
+{"tm":"2026-10-03 20:43:05.610","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://8.8.4.4/resolve?name=dynamic-api-host3.windscribe.com&type=TXT"}
+{"tm":"2026-10-03 20:43:05.611","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://1.1.1.1/dns-query?type=TXT&name=echconfig001.windscribe.dev"}
+{"tm":"2026-10-03 20:43:05.611","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://1.0.0.1/dns-query?type=TXT&name=echconfig001.windscribe.dev"}
+{"tm":"2026-10-03 20:43:05.611","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://1.1.1.1/dns-query?type=TXT&name=fallback.echconfig001.windscribe.dev"}
+{"tm":"2026-10-03 20:43:05.612","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://1.0.0.1/dns-query?type=TXT&name=fallback.echconfig001.windscribe.dev"}
+{"tm":"2026-10-03 20:43:05.645","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://api.totallyacdn.com/MyIp?platform=android&app_version=4.3.2360"}
+{"tm":"2026-10-03 20:43:05.655","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://cloudflare-dns.com/dns-query?name=dynamic-api-host3.windscribe.com&type=TXT"}
+{"tm":"2026-10-03 20:43:05.662","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://dns.google/resolve?name=dynamic-api-host3.windscribe.com&type=TXT"}
+{"tm":"2026-10-03 20:43:05.665","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://api.bff0cfdfc3d893fc4c14affb538d23544b90541d.com/MyIp?platform=android&app_version=4.3.2360"}
+{"tm":"2026-10-03 20:43:05.666","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://cloudflare-dns.com/dns-query?type=TXT&name=echconfig001.windscribe.dev"}
+{"tm":"2026-10-03 20:43:05.669","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://cloudflare-dns.com/dns-query?type=TXT&name=fallback.echconfig001.windscribe.dev"}
+{"tm":"2026-10-03 20:43:05.674","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://139.162.150.150/ApiAccessIps?platform=android&app_version=4.3.2360"}
+{"tm":"2026-10-03 20:43:05.675","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://138.197.150.76/ApiAccessIps?platform=android&app_version=4.3.2360"}
+{"tm":"2026-10-03 20:43:05.725","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://api.pizdets.ca/MyIp?platform=android&app_version=4.3.2360"}
+{"tm":"2026-10-03 20:43:05.727","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://api.pizdets.ca/MyIp?platform=android&app_version=4.3.2360"}
+{"tm":"2026-10-03 20:43:08.631","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 1.0.cb5ae17636e975f9bf71ddf5bc542075:443...\n"}
+{"tm":"2026-10-03 20:43:08.634","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=3ddc4f4c-37d3-44e7-bdba-877a5666d2ac result=ok domains=1"}
+{"tm":"2026-10-03 20:43:10.439","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 4ee3a3de544dd697db4db49355b6535f:443...\n"}
+{"tm":"2026-10-03 20:43:10.440","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=da3f5ac6-897b-44be-b401-bfbceaca4ce8 result=ok domains=1"}
+{"tm":"2026-10-03 20:43:10.528","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 777d45bbbcdf50d49c42c70ad7acf5fe.777d45bbbcdf50d49c42c70ad7acf5fe:443...\n"}
+{"tm":"2026-10-03 20:43:10.529","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=7f01c68b-d06f-4522-99f3-9c31762f24a4  result=ok domains=1"}
+{"tm":"2026-10-03 20:43:10.611","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:10.611","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 777d45bbbcdf50d49c42c70ad7acf5fe.777d45bbbcdf50d49c42c70ad7acf5fe:443:777d45bbbcdf50d49c42c70ad7acf5fe.777d45bbbcdf50d49c42c70ad7acf5fe to DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.612","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 777d45bbbcdf50d49c42c70ad7acf5fe.777d45bbbcdf50d49c42c70ad7acf5fe was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.612","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 777d45bbbcdf50d49c42c70ad7acf5fe.777d45bbbcdf50d49c42c70ad7acf5fe:443...\n"}
+{"tm":"2026-10-03 20:43:10.612","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/777d45bbbcdf50d49c42c70ad7acf5fe\n"}
+{"tm":"2026-10-03 20:43:10.612","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.612","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:10.612","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:10.612","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5000 milliseconds\n"}
+{"tm":"2026-10-03 20:43:10.613","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #1\n"}
+{"tm":"2026-10-03 20:43:10.613","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=20846580-b8fc-418b-9202-0af1fdbd90b9 result=failed"}
+{"tm":"2026-10-03 20:43:10.614","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:10.615","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 1.0.cb5ae17636e975f9bf71ddf5bc542075:443:1.0.cb5ae17636e975f9bf71ddf5bc542075 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.617","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 1.0.cb5ae17636e975f9bf71ddf5bc542075 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.617","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 1.0.cb5ae17636e975f9bf71ddf5bc542075:443...\n"}
+{"tm":"2026-10-03 20:43:10.617","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:10.617","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.617","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5000 milliseconds\n"}
+{"tm":"2026-10-03 20:43:10.617","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #2\n"}
+{"tm":"2026-10-03 20:43:10.618","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=d1f8d432-3ef3-4b26-864e-f3bd44fede77 result=failed"}
+{"tm":"2026-10-03 20:43:10.619","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:10.620","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 76da8e16b4b35b8424eb298d2b37d666.76da8e16b4b35b8424eb298d2b37d666:443:76da8e16b4b35b8424eb298d2b37d666.76da8e16b4b35b8424eb298d2b37d666 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.621","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 76da8e16b4b35b8424eb298d2b37d666.76da8e16b4b35b8424eb298d2b37d666 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.621","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 76da8e16b4b35b8424eb298d2b37d666.76da8e16b4b35b8424eb298d2b37d666:443...\n"}
+{"tm":"2026-10-03 20:43:10.621","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:10.621","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.621","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:10.621","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:10.621","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5002 milliseconds\n"}
+{"tm":"2026-10-03 20:43:10.621","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #3\n"}
+{"tm":"2026-10-03 20:43:10.622","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:10.622","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 8.8.f9a97ed4e88eeab44f2693afa0eb2089:443:8.8.f9a97ed4e88eeab44f2693afa0eb2089 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.622","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 8.8.f9a97ed4e88eeab44f2693afa0eb2089 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.622","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 8.8.f9a97ed4e88eeab44f2693afa0eb2089:443...\n"}
+{"tm":"2026-10-03 20:43:10.622","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:10.622","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.622","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:10.622","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:10.622","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5000 milliseconds\n"}
+{"tm":"2026-10-03 20:43:10.622","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #4\n"}
+{"tm":"2026-10-03 20:43:10.623","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=0555eaa2-265c-475a-bebb-fb6e65efd4af result=failed"}
+{"tm":"2026-10-03 20:43:10.623","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=a84a8883-1d82-409b-8521-10d8040e9557 result=failed"}
+{"tm":"2026-10-03 20:43:10.625","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:10.626","lvl":"debug","mod":"wsnet-wrapper","msg":"RESOLVE 777d45bbbcdf50d49c42c70ad7acf5fe.777d45bbbcdf50d49c42c70ad7acf5fe:443 - old addresses discarded\n"}
+{"tm":"2026-10-03 20:43:10.626","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 777d45bbbcdf50d49c42c70ad7acf5fe.777d45bbbcdf50d49c42c70ad7acf5fe:443:777d45bbbcdf50d49c42c70ad7acf5fe.777d45bbbcdf50d49c42c70ad7acf5fe to DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.626","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 777d45bbbcdf50d49c42c70ad7acf5fe.777d45bbbcdf50d49c42c70ad7acf5fe was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.626","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 777d45bbbcdf50d49c42c70ad7acf5fe.777d45bbbcdf50d49c42c70ad7acf5fe:443...\n"}
+{"tm":"2026-10-03 20:43:10.626","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/777d45bbbcdf50d49c42c70ad7acf5fe\n"}
+{"tm":"2026-10-03 20:43:10.626","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.626","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:10.626","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:10.626","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5000 milliseconds\n"}
+{"tm":"2026-10-03 20:43:10.627","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #5\n"}
+{"tm":"2026-10-03 20:43:10.627","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=3e60e3d5-d379-46cc-a9a0-d9f04f47999a result=failed"}
+{"tm":"2026-10-03 20:43:10.634","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:10.635","lvl":"debug","mod":"wsnet-wrapper","msg":"RESOLVE 1.0.cb5ae17636e975f9bf71ddf5bc542075:443 - old addresses discarded\n"}
+{"tm":"2026-10-03 20:43:10.635","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 1.0.cb5ae17636e975f9bf71ddf5bc542075:443:1.0.cb5ae17636e975f9bf71ddf5bc542075 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.635","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 1.0.cb5ae17636e975f9bf71ddf5bc542075 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.635","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 1.0.cb5ae17636e975f9bf71ddf5bc542075:443...\n"}
+{"tm":"2026-10-03 20:43:10.635","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:10.636","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.636","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5cb5ae17636e975f9bf71ddf5bc542075 milliseconds\n"}
+{"tm":"2026-10-03 20:43:10.637","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #6\n"}
+{"tm":"2026-10-03 20:43:10.637","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=ee195090-f5e8-4ae0-9142-ca0961a43173 result=failed"}
+{"tm":"2026-10-03 20:43:10.683","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:10.683","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 139.162.0113f5c725e0159a639d5253b4b03570:443:139.162.0113f5c725e0159a639d5253b4b03570 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.683","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 139.162.0113f5c725e0159a639d5253b4b03570 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.683","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 139.162.0113f5c725e0159a639d5253b4b03570:443...\n"}
+{"tm":"2026-10-03 20:43:10.683","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:10.684","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.684","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:10.684","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:10.684","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.684","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:10.684","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:10.684","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n"}
+{"tm":"2026-10-03 20:43:10.684","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5000 milliseconds\n"}
+{"tm":"2026-10-03 20:43:10.684","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #15\n"}
+{"tm":"2026-10-03 20:43:10.685","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:10.685","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 138.197.cbd4986743207a5cd03fc3699e385864:443:138.197.cbd4986743207a5cd03fc3699e385864 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.686","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=c80e1193-27ea-405a-9502-00c31a51c911 result=failed"}
+{"tm":"2026-10-03 20:43:10.687","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 138.197.cbd4986743207a5cd03fc3699e385864 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.687","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 138.197.cbd4986743207a5cd03fc3699e385864:443...\n"}
+{"tm":"2026-10-03 20:43:10.687","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:10.688","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.688","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:10.688","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:10.689","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.689","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:10.689","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:10.689","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n"}
+{"tm":"2026-10-03 20:43:10.689","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5000 milliseconds\n"}
+{"tm":"2026-10-03 20:43:10.689","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #16\n"}
+{"tm":"2026-10-03 20:43:10.689","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=5efc039e-0937-4ad7-a82e-f4097987027e result=failed"}
+{"tm":"2026-10-03 20:43:10.730","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:10.731","lvl":"debug","mod":"wsnet-wrapper","msg":"Added www.esquire.com:443:ca6adbf2102954de295b2ee4360503d7 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.731","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname www.esquire.com was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.731","lvl":"debug","mod":"wsnet-wrapper","msg":"Host www.esquire.com:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:10.731","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:10.731","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: ca6adbf2102954de295b2ee4360503d7\n"}
+{"tm":"2026-10-03 20:43:10.732","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:10.732","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying ca6adbf2102954de295b2ee4360503d7:443...\n"}
+{"tm":"2026-10-03 20:43:10.732","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:10.732","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.732","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:10.732","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:10.732","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n"}
+{"tm":"2026-10-03 20:43:10.732","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5001 milliseconds\n"}
+{"tm":"2026-10-03 20:43:10.733","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #17\n"}
+{"tm":"2026-10-03 20:43:10.735","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:10.735","lvl":"debug","mod":"wsnet-wrapper","msg":"Added cdn.yelp.com:443:cf619aabba85c948e35f1efef7567db7 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.735","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname cdn.yelp.com was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:10.737","lvl":"debug","mod":"wsnet-wrapper","msg":"Host cdn.yelp.com:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:10.739","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:10.739","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: cf619aabba85c948e35f1efef7567db7\n"}
+{"tm":"2026-10-03 20:43:10.739","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:10.739","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying cf619aabba85c948e35f1efef7567db7:443...\n"}
+{"tm":"2026-10-03 20:43:10.740","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:10.740","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:10.740","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:10.740","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:10.740","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n"}
+{"tm":"2026-10-03 20:43:10.740","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5000 milliseconds\n"}
+{"tm":"2026-10-03 20:43:10.740","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #18\n"}
+{"tm":"2026-10-03 20:43:10.740","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_end uid=64e5c2e1-829b-4f6a-a3a3-a37c762778c6 domain=pizdets.ca duration_ms=5136 http_elapsed_ms=5135 result=fail error=curl: Timeout was reached; os_errno = 0"}
+{"tm":"2026-10-03 20:43:10.741","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_start uid=7f01c68b-d06f-4522-99f3-9c31762f24a4  name=ech_f: 1.1 domain=ech-public-test.windscribe.dev sni= ech=1"}
+{"tm":"2026-10-03 20:43:10.742","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_end uid=2bedd295-2a5e-478c-b294-0ec5ffbb3813 domain=pizdets.ca duration_ms=5143 http_elapsed_ms=5142 result=fail error=curl: Timeout was reached; os_errno = 0"}
+{"tm":"2026-10-03 20:43:10.742","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_start uid=3ddc4f4c-37d3-44e7-bdba-877a5666d2ac name=ech_f: 1.0 domain=ech-public-test.windscribe.dev sni= ech=1"}
+{"tm":"2026-10-03 20:43:10.792","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://api.ech-public-test.windscribe.dev/MyIp?platform=android&app_version=4.3.2360"}
+{"tm":"2026-10-03 20:43:10.797","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://api.ech-public-test.windscribe.dev/MyIp?platform=android&app_version=4.3.2360"}
+{"tm":"2026-10-03 20:43:12.386","lvl":"info","mod":"app_icon_cache","msg":"Icon preloading completed. Cache size: 13661200"}
+{"tm":"2026-10-03 20:43:15.624","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:15.628","lvl":"debug","mod":"wsnet-wrapper","msg":"Added api.e044b77f09eb3305607a5cbb90f43d4d:443:7e3a978a2d8281e6be20f1487a92c5a3,2149166b30f9be82e39fae40a1f3429d to DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.637","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname api.e044b77f09eb3305607a5cbb90f43d4d was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.638","lvl":"debug","mod":"wsnet-wrapper","msg":"Host api.e044b77f09eb3305607a5cbb90f43d4d:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:15.639","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:15.645","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: 7e3a978a2d8281e6be20f1487a92c5a3, 2149166b30f9be82e39fae40a1f3429d\n"}
+{"tm":"2026-10-03 20:43:15.666","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:15.672","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 7e3a978a2d8281e6be20f1487a92c5a3:443...\n"}
+{"tm":"2026-10-03 20:43:15.684","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:15.690","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:15.691","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:15.699","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:15.707","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 9962 milliseconds\n"}
+{"tm":"2026-10-03 20:43:15.710","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #9\n"}
+{"tm":"2026-10-03 20:43:15.714","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_end uid=83e64a18-31bb-4d26-956a-ade58a5df0b9 domain=totallyacdn.com duration_ms=10120 http_elapsed_ms=10115 result=fail error=curl: Timeout was reached; os_errno = 0"}
+{"tm":"2026-10-03 20:43:15.716","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:15.719","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 0ee9da58b000f71e8f838ecdc21790a7:443:4ee3a3de544dd697db4db49355b6535f,8f78a66ed1d59e716a830f0a5a6863d3 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.726","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 0ee9da58b000f71e8f838ecdc21790a7 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.733","lvl":"debug","mod":"wsnet-wrapper","msg":"Host 0ee9da58b000f71e8f838ecdc21790a7:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:15.739","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:15.745","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_start uid=da3f5ac6-897b-44be-b401-bfbceaca4ce8 name=ech_f: clo domain=ech-public-test.windscribe.dev sni= ech=1"}
+{"tm":"2026-10-03 20:43:15.747","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: 4ee3a3de544dd697db4db49355b6535f, 8f78a66ed1d59e716a830f0a5a6863d3\n"}
+{"tm":"2026-10-03 20:43:15.753","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:15.753","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 4ee3a3de544dd697db4db49355b6535f:443...\n"}
+{"tm":"2026-10-03 20:43:15.754","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:15.755","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:15.756","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:15.757","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:15.758","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 9952 milliseconds\n"}
+{"tm":"2026-10-03 20:43:15.759","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #10\n"}
+{"tm":"2026-10-03 20:43:15.761","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:15.762","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 1872746d244c489367a7b543c484e60b:443:e5183d4c0648fb48d7445d2407e0f462,40ff44d9e619b17524bf3763204f9cbb to DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.763","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 1872746d244c489367a7b543c484e60b was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.763","lvl":"debug","mod":"wsnet-wrapper","msg":"Host 1872746d244c489367a7b543c484e60b:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:15.764","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:15.765","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: e5183d4c0648fb48d7445d2407e0f462, 40ff44d9e619b17524bf3763204f9cbb\n"}
+{"tm":"2026-10-03 20:43:15.766","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:15.767","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying e5183d4c0648fb48d7445d2407e0f462:443...\n"}
+{"tm":"2026-10-03 20:43:15.768","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:15.768","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:15.768","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 9952 milliseconds\n"}
+{"tm":"2026-10-03 20:43:15.769","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #11\n"}
+{"tm":"2026-10-03 20:43:15.770","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:15.771","lvl":"debug","mod":"wsnet-wrapper","msg":"Added api.4123917c7c6ac7d871dcea4f81fd4d51:443:e638d95f36a6720a15dff96d94788cae,330510740bbf927fa3686450cbe6da10 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.772","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname api.4123917c7c6ac7d871dcea4f81fd4d51 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.772","lvl":"debug","mod":"wsnet-wrapper","msg":"Host api.4123917c7c6ac7d871dcea4f81fd4d51:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:15.773","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:15.774","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: e638d95f36a6720a15dff96d94788cae, 330510740bbf927fa3686450cbe6da10\n"}
+{"tm":"2026-10-03 20:43:15.775","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:15.776","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying e638d95f36a6720a15dff96d94788cae:443...\n"}
+{"tm":"2026-10-03 20:43:15.777","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:15.778","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:15.779","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:15.780","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:15.781","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 9950 milliseconds\n"}
+{"tm":"2026-10-03 20:43:15.781","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #12\n"}
+{"tm":"2026-10-03 20:43:15.782","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:15.783","lvl":"debug","mod":"wsnet-wrapper","msg":"RESOLVE 0ee9da58b000f71e8f838ecdc21790a7:443 - old addresses discarded\n"}
+{"tm":"2026-10-03 20:43:15.784","lvl":"debug","mod":"wsnet-wrapper","msg":"Added 0ee9da58b000f71e8f838ecdc21790a7:443:4ee3a3de544dd697db4db49355b6535f,8f78a66ed1d59e716a830f0a5a6863d3 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.785","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname 0ee9da58b000f71e8f838ecdc21790a7 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.786","lvl":"debug","mod":"wsnet-wrapper","msg":"Host 0ee9da58b000f71e8f838ecdc21790a7:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:15.787","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:15.788","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: 4ee3a3de544dd697db4db49355b6535f, 8f78a66ed1d59e716a830f0a5a6863d3\n"}
+{"tm":"2026-10-03 20:43:15.789","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:15.789","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 4ee3a3de544dd697db4db49355b6535f:443...\n"}
+{"tm":"2026-10-03 20:43:15.790","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:15.791","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:15.792","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:15.792","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:15.793","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 9947 milliseconds\n"}
+{"tm":"2026-10-03 20:43:15.794","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #13\n"}
+{"tm":"2026-10-03 20:43:15.799","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://api.ech-public-test.windscribe.dev/MyIp?platform=android&app_version=4.3.2360"}
+{"tm":"2026-10-03 20:43:15.803","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=bd35e5d2-fbe2-4e1a-9ae6-2d641c3cf26e result=failed"}
+{"tm":"2026-10-03 20:43:15.804","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:15.806","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=b08c7b45-f65b-4d7f-a424-9fb71f296957 result=failed"}
+{"tm":"2026-10-03 20:43:15.807","lvl":"debug","mod":"wsnet-wrapper","msg":"Added api.ech-public-test.bae5e676c241457e6c95ab5a556343c4:443:c3e543e2e21bda614ebe18fc3e7531d6 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.809","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname api.ech-public-test.bae5e676c241457e6c95ab5a556343c4 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.809","lvl":"debug","mod":"wsnet-wrapper","msg":"Host api.ech-public-test.bae5e676c241457e6c95ab5a556343c4:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:15.810","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:15.810","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: c3e543e2e21bda614ebe18fc3e7531d6\n"}
+{"tm":"2026-10-03 20:43:15.810","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:15.810","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying c3e543e2e21bda614ebe18fc3e7531d6:443...\n"}
+{"tm":"2026-10-03 20:43:15.810","lvl":"debug","mod":"wsnet-wrapper","msg":"ECH: ECHConfig from command line\n"}
+{"tm":"2026-10-03 20:43:15.810","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:15.810","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:15.811","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:15.811","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:15.811","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n"}
+{"tm":"2026-10-03 20:43:15.811","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5003 milliseconds\n"}
+{"tm":"2026-10-03 20:43:15.811","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #19\n"}
+{"tm":"2026-10-03 20:43:15.811","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:15.811","lvl":"debug","mod":"wsnet-wrapper","msg":"RESOLVE api.ech-public-test.bae5e676c241457e6c95ab5a556343c4:443 - old addresses discarded\n"}
+{"tm":"2026-10-03 20:43:15.812","lvl":"debug","mod":"wsnet-wrapper","msg":"Added api.ech-public-test.bae5e676c241457e6c95ab5a556343c4:443:c3e543e2e21bda614ebe18fc3e7531d6 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.813","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname api.ech-public-test.bae5e676c241457e6c95ab5a556343c4 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:15.814","lvl":"debug","mod":"wsnet-wrapper","msg":"Host api.ech-public-test.bae5e676c241457e6c95ab5a556343c4:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:15.814","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:15.815","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: c3e543e2e21bda614ebe18fc3e7531d6\n"}
+{"tm":"2026-10-03 20:43:15.815","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:15.815","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying c3e543e2e21bda614ebe18fc3e7531d6:443...\n"}
+{"tm":"2026-10-03 20:43:15.815","lvl":"debug","mod":"wsnet-wrapper","msg":"ECH: ECHConfig from command line\n"}
+{"tm":"2026-10-03 20:43:15.815","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:15.815","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:15.815","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:15.815","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:15.815","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n"}
+{"tm":"2026-10-03 20:43:15.816","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5000 milliseconds\n"}
+{"tm":"2026-10-03 20:43:15.816","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #20\n"}
+{"tm":"2026-10-03 20:43:15.824","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_end uid=7edd0a41-1ffd-4224-a2b1-809c646a918b domain=bff0cfdfc3d893fc4c14affb538d23544b90541d.com duration_ms=10213 http_elapsed_ms=10210 result=fail error=curl: Timeout was reached; os_errno = 0"}
+{"tm":"2026-10-03 20:43:15.825","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_start uid=d9f14789-a32b-414e-a3b4-8bcd88e8a609 name=cdn: piz domain=pizdets.ca sni=pypi.org ech=0"}
+{"tm":"2026-10-03 20:43:15.839","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=discovery_end uid=ad532351-5999-4a64-859f-32a021511876 result=failed"}
+{"tm":"2026-10-03 20:43:15.840","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_end uid=7f01c68b-d06f-4522-99f3-9c31762f24a4  domain=ech-public-test.windscribe.dev duration_ms=5099 http_elapsed_ms=5097 result=fail error=curl: Timeout was reached; os_errno = 0"}
+{"tm":"2026-10-03 20:43:15.841","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_end uid=3ddc4f4c-37d3-44e7-bdba-877a5666d2ac domain=ech-public-test.windscribe.dev duration_ms=5098 http_elapsed_ms=5096 result=fail error=curl: Timeout was reached; os_errno = 0"}
+{"tm":"2026-10-03 20:43:15.925","lvl":"debug","mod":"wsnet-wrapper","msg":"New curl request : https://api.pizdets.ca/MyIp?platform=android&app_version=4.3.2360"}
+{"tm":"2026-10-03 20:43:19.429","lvl":"info","mod":"app","msg":"----------------App moved to Foreground.------------
+"}
+{"tm":"2026-10-03 20:43:19.728","lvl":"info","mod":"vpn","msg":"[wg:443:NextUp, ikev2:500:Disconnected, udp:443:Disconnected, tcp:443:Disconnected, stunnel:443:Disconnected, wstunnel:443:Disconnected]"}
+{"tm":"2026-10-03 20:43:19.820","lvl":"debug","mod":"AppStartViewModel","msg":"Received sso token from Google"}
+{"tm":"2026-10-03 20:43:19.823","lvl":"debug","mod":"play-integrity","msg":"Initializing Play Integrity token provider..."}
+{"tm":"2026-10-03 20:43:20.821","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:20.821","lvl":"debug","mod":"wsnet-wrapper","msg":"RESOLVE api.ech-public-test.bae5e676c241457e6c95ab5a556343c4:443 - old addresses discarded\n"}
+{"tm":"2026-10-03 20:43:20.821","lvl":"debug","mod":"wsnet-wrapper","msg":"Added api.ech-public-test.bae5e676c241457e6c95ab5a556343c4:443:c3e543e2e21bda614ebe18fc3e7531d6 to DNS cache\n"}
+{"tm":"2026-10-03 20:43:20.822","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname api.ech-public-test.bae5e676c241457e6c95ab5a556343c4 was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:20.822","lvl":"debug","mod":"wsnet-wrapper","msg":"Host api.ech-public-test.bae5e676c241457e6c95ab5a556343c4:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:20.822","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:20.822","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: c3e543e2e21bda614ebe18fc3e7531d6\n"}
+{"tm":"2026-10-03 20:43:20.822","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:20.826","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying c3e543e2e21bda614ebe18fc3e7531d6:443...\n"}
+{"tm":"2026-10-03 20:43:20.827","lvl":"debug","mod":"wsnet-wrapper","msg":"ECH: ECHConfig from command line\n"}
+{"tm":"2026-10-03 20:43:20.827","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:20.827","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:20.827","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:20.827","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:20.827","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n"}
+{"tm":"2026-10-03 20:43:20.828","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 5000 milliseconds\n"}
+{"tm":"2026-10-03 20:43:20.829","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #21\n"}
+{"tm":"2026-10-03 20:43:20.829","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_end uid=da3f5ac6-897b-44be-b401-bfbceaca4ce8 domain=ech-public-test.windscribe.dev duration_ms=5114 http_elapsed_ms=5083 result=fail error=curl: Timeout was reached; os_errno = 0"}
+{"tm":"2026-10-03 20:43:25.860","lvl":"debug","mod":"wsnet-wrapper","msg":"Curl request error: Timeout was reached"}
+{"tm":"2026-10-03 20:43:25.860","lvl":"debug","mod":"wsnet-wrapper","msg":"Added pypi.org:443:c8ea239fefa55d4cded744a2e6e912bb,15913471c56ca1331550a05a0d5c38b3,4ba8e27389da60123fdeb87226d76b8f,ce1f0970b513e4a1d0c411f82fc5347f to DNS cache\n"}
+{"tm":"2026-10-03 20:43:25.861","lvl":"debug","mod":"wsnet-wrapper","msg":"Hostname pypi.org was found in DNS cache\n"}
+{"tm":"2026-10-03 20:43:25.862","lvl":"debug","mod":"wsnet-wrapper","msg":"Host pypi.org:443 was resolved.\n"}
+{"tm":"2026-10-03 20:43:25.863","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv6: (none)\n"}
+{"tm":"2026-10-03 20:43:25.863","lvl":"debug","mod":"wsnet-wrapper","msg":"IPv4: c8ea239fefa55d4cded744a2e6e912bb, 15913471c56ca1331550a05a0d5c38b3, 4ba8e27389da60123fdeb87226d76b8f, ce1f0970b513e4a1d0c411f82fc5347f\n"}
+{"tm":"2026-10-03 20:43:25.864","lvl":"debug","mod":"wsnet-wrapper","msg":"HTTPS-RR: -\n"}
+{"tm":"2026-10-03 20:43:25.864","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying c8ea239fefa55d4cded744a2e6e912bb:443...\n"}
+{"tm":"2026-10-03 20:43:25.865","lvl":"debug","mod":"wsnet-wrapper","msg":"  Trying 15913471c56ca1331550a05a0d5c38b3:443...\n"}
+{"tm":"2026-10-03 20:43:25.865","lvl":"debug","mod":"wsnet-wrapper","msg":"ALPN: curl offers http/1.1\n"}
+{"tm":"2026-10-03 20:43:25.866","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n"}
+{"tm":"2026-10-03 20:43:25.866","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n"}
+{"tm":"2026-10-03 20:43:25.867","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS change cipher, Change cipher spec (1):\n"}
+{"tm":"2026-10-03 20:43:25.869","lvl":"debug","mod":"wsnet-wrapper","msg":"TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n"}
+{"tm":"2026-10-03 20:43:25.870","lvl":"debug","mod":"wsnet-wrapper","msg":"Connection timed out after 9933 milliseconds\n"}
+{"tm":"2026-10-03 20:43:25.871","lvl":"debug","mod":"wsnet-wrapper","msg":"closing connection #22\n"}
+{"tm":"2026-10-03 20:43:25.872","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_end uid=d9f14789-a32b-414e-a3b4-8bcd88e8a609 domain=pizdets.ca duration_ms=10046 http_elapsed_ms=10029 result=fail error=curl: Timeout was reached; os_errno = 0"}
+{"tm":"2026-10-03 20:43:25.872","lvl":"debug","mod":"wsnet-wrapper","msg":"[fo-metric] event=probe_search_end result=1 winner_uid= total_ms=20286 failed_before_winner=8"}
+{"tm":"2026-10-03 20:43:25.872","lvl":"debug","mod":"wsnet-wrapper","msg":"Probe: all failovers failed, API not ready"}
+{"tm":"2026-10-03 20:43:25.876","lvl":"error","mod":"ui","msg":"Failed to record app install: WSNet: All fallback domains have failed."}
+{"tm":"2026-10-03 20:43:26.973","lvl":"debug","mod":"play-integrity","msg":"Successfully initialized Play Integrity token provider"}
+{"tm":"2026-10-03 20:43:26.974","lvl":"debug","mod":"play-integrity","msg":"Requesting Play Integrity token with hash: PIEopQc1aHQi5KLOc3r_cde5lNnc_qBSyNA0DYdZeiQ"}
+{"tm":"2026-10-03 20:43:27.040","lvl":"debug","mod":"play-integrity","msg":"Successfully obtained Play Integrity token"}
+{"tm":"2026-10-03 20:43:27.041","lvl":"debug","mod":"AppStartViewModel","msg":"Using Play Integrity token for SSO login"}
+{"tm":"2026-10-03 20:43:27.051","lvl":"error","mod":"AppStartViewModel","msg":"Sso login failed with error: WSNet: All fallback domains have failed."}
+{"tm":"2026-10-03 20:48:30.783","lvl":"info","mod":"device-state-manager","msg":"Whitelisted network set to: null"}
+{"tm":"2026-10-03 20:48:30.784","lvl":"info","mod":"app","msg":"----------App going to background.--------
+"}
+{"tm":"2026-10-03 20:57:51.222","lvl":"info","mod":"app","msg":"----------------App moved to Foreground.------------
+"}
+{"tm":"2026-10-03 20:57:51.335","lvl":"info","mod":"vpn","msg":"[wg:443:NextUp, ikev2:500:Disconnected, udp:443:Disconnected, tcp:443:Disconnected, stunnel:443:Disconnected, wstunnel:443:Disconnected]"}
+{"tm":"2026-10-03 20:57:53.402","lvl":"debug","mod":"AppStartViewModel","msg":"Received sso token from Google"}
+{"tm":"2026-10-03 20:57:53.403","lvl":"debug","mod":"play-integrity","msg":"Requesting Play Integrity token with hash: 0jrLOLumY_Xi8o-IPNxFe9qsCcX4w0HmOgktPOnyzsM"}
+{"tm":"2026-10-03 20:57:53.529","lvl":"debug","mod":"play-integrity","msg":"Successfully obtained Play Integrity token"}
+{"tm":"2026-10-03 20:57:53.529","lvl":"debug","mod":"AppStartViewModel","msg":"Using Play Integrity token for SSO login"}
+{"tm":"2026-10-03 20:57:53.542","lvl":"error","mod":"AppStartViewModel","msg":"Sso login failed with error: WSNet: All fallback domains have failed."}
+{"tm":"2026-10-03 20:58:00.228","lvl":"debug","mod":"AppStartViewModel","msg":"Received sso token from Google"}
+{"tm":"2026-10-03 20:58:00.229","lvl":"debug","mod":"play-integrity","msg":"Requesting Play Integrity token with hash: 9d9MYt60FXtPl1hlyV3Tc7maT4eBKpdK2vgHFrwdoyw"}
+{"tm":"2026-10-03 20:58:00.345","lvl":"debug","mod":"play-integrity","msg":"Successfully obtained Play Integrity token"}
+{"tm":"2026-10-03 20:58:00.346","lvl":"debug","mod":"AppStartViewModel","msg":"Using Play Integrity token for SSO login"}
+{"tm":"2026-10-03 20:58:00.347","lvl":"error","mod":"AppStartViewModel","msg":"Sso login failed with error: WSNet: All fallback domains have failed."}
+{"tm":"2026-10-03 20:58:04.105","lvl":"debug","mod":"AppStartViewModel","msg":"Received sso token from Google"}
+{"tm":"2026-10-03 20:58:04.106","lvl":"debug","mod":"play-integrity","msg":"Requesting Play Integrity token with hash: 50oNxFoAhFygVJx5DjgZmEbpSvaaJ_yK4M1xg8VPkAM"}
+{"tm":"2026-10-03 20:58:04.144","lvl":"debug","mod":"play-integrity","msg":"Successfully obtained Play Integrity token"}
+{"tm":"2026-10-03 20:58:04.144","lvl":"debug","mod":"AppStartViewModel","msg":"Using Play Integrity token for SSO login"}
+{"tm":"2026-10-03 20:58:04.158","lvl":"error","mod":"AppStartViewModel","msg":"Sso login failed with error: WSNet: All fallback domains have failed."}
+{"tm":"2026-10-03 20:58:07.877","lvl":"debug","mod":"AppStartViewModel","msg":"Received sso token from Google"}
+{"tm":"2026-10-03 20:58:07.877","lvl":"debug","mod":"play-integrity","msg":"Requesting Play Integrity token with hash: dDzvYAhR_yB8jcZ3p4xQKhhykhAQH9kMrfkJ-VMJvK8"}
+{"tm":"2026-10-03 20:58:08.027","lvl":"debug","mod":"play-integrity","msg":"Successfully obtained Play Integrity token"}
+{"tm":"2026-10-03 20:58:08.027","lvl":"debug","mod":"AppStartViewModel","msg":"Using Play Integrity token for SSO login"}
+{"tm":"2026-10-03 20:58:08.029","lvl":"error","mod":"AppStartViewModel","msg":"Sso login failed with error: WSNet: All fallback domains have failed."}
+{"tm":"2026-10-03 20:58:16.346","lvl":"info","mod":"device-state-manager","msg":"Whitelisted network set to: null"}
+{"tm":"2026-10-03 20:58:16.348","lvl":"info","mod":"app","msg":"----------App going to background.--------
+"}
+{"tm":"2026-10-03 20:58:18.835","lvl":"info","mod":"app","msg":"----------------App moved to Foreground.------------
+"}
+{"tm":"2026-10-03 20:58:18.993","lvl":"info","mod":"vpn","msg":"[wg:443:NextUp, ikev2:500:Disconnected, udp:443:Disconnected, tcp:443:Disconnected, stunnel:443:Disconnected, wstunnel:443:Disconnected]"}
+{"tm":"2026-10-03 20:58:19.365","lvl":"error","mod":"ui","msg":"Failed to record app install: WSNet: All fallback domains have failed."}
+{"tm":"2026-10-03 20:59:26.691","lvl":"info","mod":"basic","msg":"Trying to registering with provided credentials..."}
+{"tm":"2026-10-03 20:59:34.574","lvl":"info","mod":"device-state-manager","msg":"Whitelisted network set to: null"}
+{"tm":"2026-10-03 20:59:34.575","lvl":"info","mod":"app","msg":"----------App going to background.--------
+"}
