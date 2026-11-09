@@ -3,7 +3,7 @@ Simple personal AI assistant using the Claude API.
 
 Setup:
   pip install anthropic
-  export ANTHROPIC_API_KEY="your-key-here"   (Windows: set ANTHROPIC_API_KEY=your-key-here)
+  export ANTHROPIC_API_KEY="your api key here"   (Windows: set ANTHROPIC_API_KEY=your-key-here)
   python efik_assistant.py
 """
 
